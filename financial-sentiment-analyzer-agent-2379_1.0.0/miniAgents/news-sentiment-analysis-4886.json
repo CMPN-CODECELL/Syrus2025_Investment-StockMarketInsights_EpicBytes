@@ -1,0 +1,27 @@
+{
+  "_id": "25908fc8-0b6f-4f84-87a5-bf8fdb55fdbb",
+  "aiPersonaId": "9f69444a-b1a9-4638-a801-cdc7bbe20bcf",
+  "integrationId": "news-sentiment-analysis-4886",
+  "intentClassification": {
+    "modelId": "4cf651d9-edf3-455f-a22e-53cc67fcc07b"
+  },
+  "intents": [
+    {
+      "_id": "classify-sentiment-4887",
+      "name": "Classify Sentiment",
+      "description": "Analyzes financial news summaries to classify the sentiment as positive, negative, or neutral based on sentiment-related keywords.",
+      "examples": [
+        "Analyze the sentiment of the latest news on AAPL.",
+        "What is the sentiment of the news regarding TSLA?",
+        "Determine if the news about GOOGL is positive or negative."
+      ],
+      "flowType": "Workflow",
+      "workflowId": "37743588-99d2-424d-8e81-2057145cc538"
+    }
+  ],
+  "name": "News Sentiment Analysis",
+  "primaryWorkflowId": "fa214f62-a268-4815-836f-2a98a53559ec",
+  "publisherAccountId": "4ef752fc-e945-48c5-bb40-29d0b77db4a4",
+  "scope": "Handles the analysis of financial news summaries for specific stocks such as AAPL, TSLA, and GOOGL. It classifies the overall sentiment of the news as positive, negative, or neutral by identifying sentiment-related keywords. This sub-agent is responsible for processing news data and determining the sentiment impact on stock performance.",
+  "status": "Active"
+}

@@ -1,0 +1,47 @@
+{
+  "aiPersonaIntegrationId": "financial-sentiment-analyzer-agent-2379",
+  "version": "1.0.0",
+  "description": "AI Agent financial-sentiment-analyzer-agent-2379 package version 1.0.0",
+  "data": {
+    "workflows": [
+      [
+        "workflows",
+        "classify-sentiment-7021.json"
+      ],
+      [
+        "workflows",
+        "ma-news-sentiment-analysis-4886-primary-workflow-for-news-sentiment-analysis.json"
+      ],
+      [
+        "workflows",
+        "generate-recommendation-9366.json"
+      ],
+      [
+        "workflows",
+        "ma-investment-recommendation-generation-7426-primary-workflow-for-investment-recommendation-generation.json"
+      ]
+    ],
+    "models": [
+      [
+        "models",
+        "azure-gpt-4o-mini.json"
+      ]
+    ],
+    "miniAgents": [
+      [
+        "miniAgents",
+        "news-sentiment-analysis-4886.json"
+      ],
+      [
+        "miniAgents",
+        "investment-recommendation-generation-7426.json"
+      ]
+    ],
+    "aiPersonas": [
+      [
+        "aiPersonas",
+        "financial-sentiment-analyzer-agent-2379.json"
+      ]
+    ]
+  }
+}

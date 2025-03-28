@@ -1,0 +1,24 @@
+{
+  "_id": "b46b72e8-5fc8-4ac3-b77a-ee425614b899",
+  "aiPersonaId": "9f69444a-b1a9-4638-a801-cdc7bbe20bcf",
+  "integrationId": "generate-recommendation-9366",
+  "name": "Workflow for Generate Recommendation",
+  "publisherAccountId": "4ef752fc-e945-48c5-bb40-29d0b77db4a4",
+  "startTaskId": "bca74d94-3399-45d4-be42-a7dfc40ac564",
+  "status": "Active",
+  "tasks": [
+    {
+      "_id": "bca74d94-3399-45d4-be42-a7dfc40ac564",
+      "transitions": [],
+      "type": "Display",
+      "config": {
+        "name": "Display",
+        "description": "Display the response to the user",
+        "type": "text",
+        "text": "Hi there! Intent $input.intent has been matched"
+      }
+    }
+  ],
+  "type": "Conversational",
+  "version": "latest"
+}

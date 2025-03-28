@@ -1,0 +1,24 @@
+{
+  "_id": "37743588-99d2-424d-8e81-2057145cc538",
+  "aiPersonaId": "9f69444a-b1a9-4638-a801-cdc7bbe20bcf",
+  "integrationId": "classify-sentiment-7021",
+  "name": "Workflow for Classify Sentiment",
+  "publisherAccountId": "4ef752fc-e945-48c5-bb40-29d0b77db4a4",
+  "startTaskId": "560c563d-edee-4e97-9a10-09797421273e",
+  "status": "Active",
+  "tasks": [
+    {
+      "_id": "560c563d-edee-4e97-9a10-09797421273e",
+      "transitions": [],
+      "type": "Display",
+      "config": {
+        "name": "Display",
+        "description": "Display the response to the user",
+        "type": "text",
+        "text": "Hi there! Intent $input.intent has been matched"
+      }
+    }
+  ],
+  "type": "Conversational",
+  "version": "latest"
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "44fdeb4c-2f8a-4b39-b42e-77dd4f580afb",
+  "aiPersonaId": "9f69444a-b1a9-4638-a801-cdc7bbe20bcf",
+  "integrationId": "investment-recommendation-generation-7426",
+  "intentClassification": {
+    "modelId": "4cf651d9-edf3-455f-a22e-53cc67fcc07b"
+  },
+  "intents": [
+    {
+      "_id": "generate-recommendation-7427",
+      "name": "Generate Recommendation",
+      "description": "Maps the classified sentiment to an investment decision and formats the insights for user-friendly presentation.",
+      "examples": [
+        "Provide an investment recommendation for AAPL based on the news sentiment.",
+        "What should I do with my TSLA stocks given the current news sentiment?",
+        "Generate a buy, sell, or hold recommendation for GOOGL."
+      ],
+      "flowType": "Workflow",
+      "workflowId": "b46b72e8-5fc8-4ac3-b77a-ee425614b899"
+    }
+  ],
+  "name": "Investment Recommendation Generation",
+  "primaryWorkflowId": "2963cb5b-e828-490f-9a9a-4c3a40081e28",
+  "publisherAccountId": "4ef752fc-e945-48c5-bb40-29d0b77db4a4",
+  "scope": "Generates actionable investment recommendations based on the sentiment analysis of financial news. It maps the sentiment to investment decisions such as buy, sell, or hold, and formats structured insights for integration with the platform's frontend.",
+  "status": "Active"
+}

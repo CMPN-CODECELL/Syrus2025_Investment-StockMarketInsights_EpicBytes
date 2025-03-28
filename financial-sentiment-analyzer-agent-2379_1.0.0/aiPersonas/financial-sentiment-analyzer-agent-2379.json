@@ -1,0 +1,80 @@
+{
+  "_id": "9f69444a-b1a9-4638-a801-cdc7bbe20bcf",
+  "inferenceEngine": {
+    "modelId": "4cf651d9-edf3-455f-a22e-53cc67fcc07b"
+  },
+  "integrationId": "financial-sentiment-analyzer-agent-2379",
+  "integrations": {},
+  "intentClassification": {
+    "modelId": "4cf651d9-edf3-455f-a22e-53cc67fcc07b"
+  },
+  "name": "Financial Sentiment Analyzer Agent",
+  "publisherAccountId": "4ef752fc-e945-48c5-bb40-29d0b77db4a4",
+  "status": "Active",
+  "useAsChatbot": true,
+  "variables": {
+    "secrets": []
+  },
+  "miniAgentIds": [
+    "25908fc8-0b6f-4f84-87a5-bf8fdb55fdbb",
+    "44fdeb4c-2f8a-4b39-b42e-77dd4f580afb"
+  ],
+  "description": "Sentiment Analysing agent",
+  "miniAgents": [
+    {
+      "_id": "44fdeb4c-2f8a-4b39-b42e-77dd4f580afb",
+      "integrationId": "investment-recommendation-generation-7426",
+      "intents": [
+        {
+          "_id": "generate-recommendation-7427",
+          "name": "Generate Recommendation",
+          "description": "Maps the classified sentiment to an investment decision and formats the insights for user-friendly presentation.",
+          "examples": [
+            "Provide an investment recommendation for AAPL based on the news sentiment.",
+            "What should I do with my TSLA stocks given the current news sentiment?",
+            "Generate a buy, sell, or hold recommendation for GOOGL."
+          ],
+          "flowType": "Workflow",
+          "workflowId": "b46b72e8-5fc8-4ac3-b77a-ee425614b899"
+        }
+      ],
+      "name": "Investment Recommendation Generation",
+      "scope": "Generates actionable investment recommendations based on the sentiment analysis of financial news. It maps the sentiment to investment decisions such as buy, sell, or hold, and formats structured insights for integration with the platform's frontend.",
+      "miniAgentId": "44fdeb4c-2f8a-4b39-b42e-77dd4f580afb"
+    },
+    {
+      "_id": "25908fc8-0b6f-4f84-87a5-bf8fdb55fdbb",
+      "integrationId": "news-sentiment-analysis-4886",
+      "intents": [
+        {
+          "_id": "classify-sentiment-4887",
+          "name": "Classify Sentiment",
+          "description": "Analyzes financial news summaries to classify the sentiment as positive, negative, or neutral based on sentiment-related keywords.",
+          "examples": [
+            "Analyze the sentiment of the latest news on AAPL.",
+            "What is the sentiment of the news regarding TSLA?",
+            "Determine if the news about GOOGL is positive or negative."
+          ],
+          "flowType": "Workflow",
+          "workflowId": "37743588-99d2-424d-8e81-2057145cc538"
+        }
+      ],
+      "name": "News Sentiment Analysis",
+      "scope": "Handles the analysis of financial news summaries for specific stocks such as AAPL, TSLA, and GOOGL. It classifies the overall sentiment of the news as positive, negative, or neutral by identifying sentiment-related keywords. This sub-agent is responsible for processing news data and determining the sentiment impact on stock performance.",
+      "miniAgentId": "25908fc8-0b6f-4f84-87a5-bf8fdb55fdbb"
+    }
+  ],
+  "rags": [],
+  "intentWorkflows": [
+    {
+      "_id": "37743588-99d2-424d-8e81-2057145cc538",
+      "integrationId": "classify-sentiment-7021",
+      "name": "Workflow for Classify Sentiment"
+    },
+    {
+      "_id": "b46b72e8-5fc8-4ac3-b77a-ee425614b899",
+      "integrationId": "generate-recommendation-9366",
+      "name": "Workflow for Generate Recommendation"
+    }
+  ]
+}
