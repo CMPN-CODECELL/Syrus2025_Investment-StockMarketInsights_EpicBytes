@@ -50,7 +50,22 @@ Overview of Agent
 Chatbot
 ![WhatsApp Image 2025-03-28 at 22 53 31_6a0d645c](https://github.com/user-attachments/assets/81bd790b-2418-488d-b070-7ac11cbdbca5)
 
-# 2. AI Powered Investment Assistant
+# 2. Beginner Support Chatbot
+
+The "Beginner Financial Support Chatbot" assists users with financial management by providing basic budgeting tips and personalized financial advice. It uses a conversational workflow to capture user queries (e.g., "How do I budget?" or user provides monthly income, expenses, saving and on that basis agent suggests further investment decisions), processes them through an LLM to generate simple, actionable advice, and displays the response in a user-friendly manner. The chatbot focuses on beginner-friendly guidance, covering budgeting, saving, and money management while adapting to 2025 economic trends like inflation. It aims to empower users with clear, step-by-step financial tips tailored to their needs.
+
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/200ce9e4-e200-4d23-95dc-5d398d5f531e)
+### WorkFlow
+![image](https://github.com/user-attachments/assets/cc85cf51-2ab3-4b42-9fe2-16605e4a21ff)
+![WhatsApp Image 2025-03-29 at 12 01 06_265bbbbe](https://github.com/user-attachments/assets/cacf6536-a006-4f2e-88a6-6020056b53b4)
+### Chatbot
+![image](https://github.com/user-attachments/assets/b2f8f295-f363-4a35-90d0-5188f6413b1d)
+![WhatsApp Image 2025-03-29 at 09 47 28_e3c105b4](https://github.com/user-attachments/assets/36fef01d-db98-465e-8e0b-24611b86b406)
+
+
+# 3. AI Powered Investment Assistant
 
 ## Screenshots
 ![WhatsApp Image 2025-03-28 at 23 04 53_dae5827e](https://github.com/user-attachments/assets/e9518439-9b78-4198-8bcb-557d038ffdc5)
@@ -61,19 +76,9 @@ Chatbot
 ![WhatsApp Image 2025-03-28 at 23 07 06_d559bf06](https://github.com/user-attachments/assets/151ca860-8b28-4afb-889c-788252bbd388)
 
 
-# 3. Beginner Support Chatbot
-
-## Screenshots
-![image](https://github.com/user-attachments/assets/200ce9e4-e200-4d23-95dc-5d398d5f531e)
-### WorkFlow
-![image](https://github.com/user-attachments/assets/cc85cf51-2ab3-4b42-9fe2-16605e4a21ff)
-### Chatbot
-![image](https://github.com/user-attachments/assets/b2f8f295-f363-4a35-90d0-5188f6413b1d)
-
 # 4. Goal Based Investment Agent
 
 ## Screenshots
 ![Screenshot 2025-03-28 231838](https://github.com/user-attachments/assets/9d9ca7e1-b073-4321-a792-38471c2f689b)
-
 ### chatbot
 ![image](https://github.com/user-attachments/assets/3b2a0cc1-4651-44cc-88ec-520e2211335a)
