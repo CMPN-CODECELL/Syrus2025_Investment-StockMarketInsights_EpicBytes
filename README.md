@@ -1,6 +1,7 @@
 ﻿# Syrus2025_Investment-StockMarketInsights_EpicBytes
 
 Updated PPT Link: https://docs.google.com/presentation/d/1-J-YSC8bgAJRmUE6IRYJ5xgH-BPZ3rqQYuxBrHFEhYE/edit?slide=id.g345f657ae46_2_61#slide=id.g345f657ae46_2_61
+Video Link: https://drive.google.com/file/d/1klVxo34kC1TRl5NCajS5tGiTJtDdxcHB/view
 
 # Updated after Mentoring Session:
 
@@ -62,3 +63,14 @@ Chatbot
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/200ce9e4-e200-4d23-95dc-5d398d5f531e)
+### WorkFlow
+![image](https://github.com/user-attachments/assets/cc85cf51-2ab3-4b42-9fe2-16605e4a21ff)
+### Chatbot
+![image](https://github.com/user-attachments/assets/b2f8f295-f363-4a35-90d0-5188f6413b1d)
+
+# 4. Goal Based Investment Agent
+
+## Screenshots
+
+### chatbot
+![image](https://github.com/user-attachments/assets/3b2a0cc1-4651-44cc-88ec-520e2211335a)
