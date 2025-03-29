@@ -1,4 +1,6 @@
-﻿# Syrus2025_Investment-StockMarketInsights_EpicBytes
+![WhatsApp Image 2025-03-29 at 13 55 53_7a7a6194](https://github.com/user-attachments/assets/c31b1dba-2012-42f7-8b8f-471f006ddb48)﻿# Syrus2025_Investment-StockMarketInsights_EpicBytes
+
+ #      InvestWise AI : Intelligent Wealth Creation Platform
 
 Updated PPT Link: https://docs.google.com/presentation/d/1-J-YSC8bgAJRmUE6IRYJ5xgH-BPZ3rqQYuxBrHFEhYE/edit?slide=id.g345f657ae46_2_61#slide=id.g345f657ae46_2_61
 
@@ -72,6 +74,7 @@ The "Beginner Financial Support Chatbot" assists users with financial management
 ![WhatsApp Image 2025-03-28 at 23 05 41_ace4b657](https://github.com/user-attachments/assets/6fdf98fb-7794-4f3c-87cd-158fbe4a2486)
 Workflow diagrams
 ![WhatsApp Image 2025-03-28 at 23 06 21_6d137bb1](https://github.com/user-attachments/assets/d1b49d7f-a2fe-45bf-ae3d-f282edf09067)
+![WhatsApp Image 2025-03-29 at 13 55 53_7a7a6194](https://github.com/user-attachments/assets/fc6c928d-d7f4-414d-9ad6-c5e42d154cb0)
 Chatbot
 ![WhatsApp Image 2025-03-28 at 23 07 06_d559bf06](https://github.com/user-attachments/assets/151ca860-8b28-4afb-889c-788252bbd388)
 
