@@ -73,6 +73,7 @@ Chatbot
 # 4. Goal Based Investment Agent
 
 ## Screenshots
+![Screenshot 2025-03-28 231838](https://github.com/user-attachments/assets/9d9ca7e1-b073-4321-a792-38471c2f689b)
 
 ### chatbot
 ![image](https://github.com/user-attachments/assets/3b2a0cc1-4651-44cc-88ec-520e2211335a)
