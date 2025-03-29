@@ -1,5 +1,4 @@
-![WhatsApp Image 2025-03-29 at 13 55 53_7a7a6194](https://github.com/user-attachments/assets/c31b1dba-2012-42f7-8b8f-471f006ddb48)﻿# Syrus2025_Investment-StockMarketInsights_EpicBytes
-
+# Syrus2025_Investment-StockMarketInsights_EpicBytes
  #      InvestWise AI : Intelligent Wealth Creation Platform
 
 Updated PPT Link: https://docs.google.com/presentation/d/1-J-YSC8bgAJRmUE6IRYJ5xgH-BPZ3rqQYuxBrHFEhYE/edit?slide=id.g345f657ae46_2_61#slide=id.g345f657ae46_2_61
