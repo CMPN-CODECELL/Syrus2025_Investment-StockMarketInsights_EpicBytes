@@ -72,9 +72,11 @@ The "Beginner Financial Support Chatbot" assists users with financial management
 ![WhatsApp Image 2025-03-28 at 23 04 53_dae5827e](https://github.com/user-attachments/assets/e9518439-9b78-4198-8bcb-557d038ffdc5)
 ![WhatsApp Image 2025-03-28 at 23 05 41_ace4b657](https://github.com/user-attachments/assets/6fdf98fb-7794-4f3c-87cd-158fbe4a2486)
 Workflow diagrams
-![WhatsApp Image 2025-03-29 at 13 55 53_7a7a6194](https://github.com/user-attachments/assets/fc6c928d-d7f4-414d-9ad6-c5e42d154cb0)
+![image](https://github.com/user-attachments/assets/a982bdc5-13c6-4a27-86e2-6f01ee76a5bd)
+
 Chatbot
-![image](https://github.com/user-attachments/assets/e9315893-645b-4a5c-b277-2596b50e8f43)
+(![image](https://github.com/user-attachments/assets/720d3cb6-ede7-43a9-a13e-8663cdddea39)
+)
 
 
 # 4. Goal Based Investment Agent
