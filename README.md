@@ -1,6 +1,6 @@
 ﻿# Syrus2025_Investment-StockMarketInsights_EpicBytes
 
-Updated PPT Link: https://docs.google.com/presentation/d/17Nv0MpmYmdYELONE_dCsKm6Cn6J_M26TmMYiE8QNc6c/edit?usp=sharing
+Updated PPT Link: https://docs.google.com/presentation/d/1-J-YSC8bgAJRmUE6IRYJ5xgH-BPZ3rqQYuxBrHFEhYE/edit?slide=id.g345f657ae46_2_61#slide=id.g345f657ae46_2_61
 
 # Updated after Mentoring Session:
 
