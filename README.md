@@ -72,10 +72,9 @@ The "Beginner Financial Support Chatbot" assists users with financial management
 ![WhatsApp Image 2025-03-28 at 23 04 53_dae5827e](https://github.com/user-attachments/assets/e9518439-9b78-4198-8bcb-557d038ffdc5)
 ![WhatsApp Image 2025-03-28 at 23 05 41_ace4b657](https://github.com/user-attachments/assets/6fdf98fb-7794-4f3c-87cd-158fbe4a2486)
 Workflow diagrams
-![WhatsApp Image 2025-03-28 at 23 06 21_6d137bb1](https://github.com/user-attachments/assets/d1b49d7f-a2fe-45bf-ae3d-f282edf09067)
 ![WhatsApp Image 2025-03-29 at 13 55 53_7a7a6194](https://github.com/user-attachments/assets/fc6c928d-d7f4-414d-9ad6-c5e42d154cb0)
 Chatbot
-![WhatsApp Image 2025-03-28 at 23 07 06_d559bf06](https://github.com/user-attachments/assets/151ca860-8b28-4afb-889c-788252bbd388)
+![image](https://github.com/user-attachments/assets/e9315893-645b-4a5c-b277-2596b50e8f43)
 
 
 # 4. Goal Based Investment Agent
@@ -84,3 +83,15 @@ Chatbot
 ![Screenshot 2025-03-28 231838](https://github.com/user-attachments/assets/9d9ca7e1-b073-4321-a792-38471c2f689b)
 ### chatbot
 ![image](https://github.com/user-attachments/assets/3b2a0cc1-4651-44cc-88ec-520e2211335a)
+
+
+# 5. Behavioral Analysis
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/fda2b3d2-da9d-4051-a461-a7821f9aa493)
+### Workflow
+![image](https://github.com/user-attachments/assets/904340af-cf50-41cf-8ccb-bcd56e13e1d1)
+
+### Chatbot
+![Screenshot 2025-03-29 141634](https://github.com/user-attachments/assets/07921993-f8cc-43fc-925b-fd6d0a256d94)
+
